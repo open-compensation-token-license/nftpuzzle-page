@@ -7,7 +7,7 @@ string constant description = "Support to the Open Token Compensation License (O
 string constant external_url = "https://nftpuzzle.license-token.com/";
 
 string constant contractURIJson =
-   '{"name":"OCTL Puzzle","symbol":"OCTLP","description":"Support to the Open Token Compensation License (OCTL), a fair way to license opensource artifacts like source code and data. Therefore, we created a unique collection of NFTs in the form of puzzles that every supporter gets as giveaway. Each puzzle piece is piece of art and used to develop the OCTL further.","image":"","banner_image":"https://nftpuzzle.license-token.com/assets/banner_image_1500x500.jpg","featured_image":"https://nftpuzzle.license-token.com/assets/feature_image_1000px.jpg","external_link":"https://github.com/open-compensation-token-license/octl/blob/main/README.md","collaborators":["0x388C818CA8B9251b393131C08a736A67ccB19297"]}';
+   '{"name":"OCTL Puzzle","symbol":"OCTLP","description":"Support to the Open Token Compensation License (OCTL), a fair way to license opensource artifacts like source code and data. Therefore, we created a unique collection of NFTs in the form of puzzles that every supporter gets as giveaway. Each puzzle piece is piece of art and used to develop the OCTL further.","image":"https://nftpuzzle.license-token.com/assets/logo_image.jpg ","banner_image":"https://nftpuzzle.license-token.com/assets/banner_image.jpg","featured_image":"https://nftpuzzle.license-token.com/assets/feature_image.jpg","external_link":"https://github.com/open-compensation-token-license/octl/blob/main/README.md","collaborators":["0x6d95Bd8A723c9ab8546c85Fa45EF9c8deEC15922"]}';
 
 Token Name/Symbol
 __ERC721A_init("OCTLP", "OCTL NFT Puzzle");
