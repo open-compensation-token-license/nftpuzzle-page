@@ -2863,27 +2863,28 @@
 
     <rect width="4380" height="2430" fill="#1E1F22"/>
     <g mask="url(#earth)">
-        <text x="50%" y="47%" class="banner title" dominant-baseline="middle" text-anchor="middle">
-            open compensation token license
-        </text>
-        <text x="50%" y="53%" class="banner subtitle" dominant-baseline="middle" text-anchor="middle">
-            the whole is greater than the sum of its parts
-        </text>
-
         <g mask="url(#unsoldarea)">
             <use href="#backtext" class="sourcecode" filter="url(#blurMe)" mask="url(#unsoldareawhitening)"/>
+            <text x="50%" y="47%" class="banner title" dominant-baseline="middle" text-anchor="middle"
+                  filter="url(#blurMe)" mask="url(#unsoldareawhitening)">
+                open compensation token license
+            </text>
+            <text x="50%" y="53%" class="banner subtitle" dominant-baseline="middle" text-anchor="middle"
+                  filter="url(#blurMe)" mask="url(#unsoldareawhitening)">
+                the whole is greater than the sum of its parts
+            </text>
         </g>
         <g mask="url(#soldarea)">
             <use href="#backtext" class="sourcecode"/>
+            <text x="50%" y="47%" class="banner title" dominant-baseline="middle" text-anchor="middle">
+                open compensation token license
+            </text>
+            <text x="50%" y="53%" class="banner subtitle" dominant-baseline="middle" text-anchor="middle">
+                the whole is greater than the sum of its parts
+            </text>
         </g>
-        <use href="#allt" stroke="#B1B3B6" fill="transparent"/>
     </g>
-    <text x="50%" y="47%" class="banner title" dominant-baseline="middle" text-anchor="middle">
-        open compensation token license
-    </text>
-    <text x="50%" y="53%" class="banner subtitle" dominant-baseline="middle" text-anchor="middle">
-        the whole is greater than the sum of its parts
-    </text>
+
     <g id="sales" stroke="transparent" class="links">
         <a target="_blank"
            xlink:href="https://opensea.io/assets/ethereum/0x621e96C1D9a96F6a5048496532F41373A5d0D08A/3124"
